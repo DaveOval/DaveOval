@@ -1,7 +1,6 @@
 # Hello world! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">.
 # I am Carlos David (Dave_u). 
-## 👨‍💻 About Me:
-🔭 I’m currently working on Cruz Roja Jalisco as Radiology Technical.<br>🌱 I’m currently learning Front-end web development.<br>💬 Ask me about radiology.<br>⚡ i like pc gaming.
+## As a front-end developer Jr, I have experience with HTML, CSS, Bootstrap, JavaScript, and React. I am highly skilled in creating user-friendly and visually appealing websites. I am a quick learner and I am always looking for ways to improve my skills and stay up-to-date with the latest developments in web design. I am a team player and I am able to work well with others to achieve project goals. I am eager to learn and grow in my career as a front-end developer Jr and I am confident that I would be a valuable asset to any team.
 
 
 ## 🌐 Socials:
