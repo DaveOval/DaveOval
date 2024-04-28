@@ -83,7 +83,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DaveOval/DaveOval/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
