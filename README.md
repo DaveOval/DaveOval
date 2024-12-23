@@ -1,5 +1,5 @@
 #  About Me:
-Hi! I'm a passionate Full Stack developer specializing in Front-End and Ai engineer. With expertise in HTML, CSS, JavaScript, TypeScript, React, Node.js, Docker, Git, and Swift, I love crafting high-quality interfaces and applications. Let's collaborate and build amazing projects together!
+Hi! I'm a passionate AI engineer and Full Stack developer specializing in Front-End and LangChain. With expertise in HTML, CSS, JavaScript, TypeScript, React, Node.js, LangChain, Python, Docker, Git, and Swift, I love crafting high-quality interfaces and applications. Let's collaborate and build amazing projects together!
 
 
 ## 🌐 Socials:
