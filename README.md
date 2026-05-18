@@ -1,27 +1,208 @@
-#  About Me:
-Hi! I'm a passionate AI engineer and Full Stack developer specializing in Front-End and DevOps. With expertise in HTML, CSS, JavaScript, TypeScript, React, Node.js, LangChain, Python, Docker, Git, and Swift, I love crafting high-quality interfaces and applications. Let's collaborate and build amazing projects together!
+# David Vazquez
 
+**AI Engineer and Senior Fullstack Engineer**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carlos-david-vazquez-herrera-dave-u/) 
+## About
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daveoval&theme=holi&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daveoval&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daveoval&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I’m a Senior Fullstack Engineer focused on building scalable, production-ready web applications, APIs, and cloud-based systems. I work across React, Next.js, Node.js, Python, and Azure, with a strong focus on reliability, clean architecture, maintainability, and practical API design. I’m also studying AI Engineering, expanding my work toward intelligent systems, automation, and AI-powered products.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=daveoval&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- Toka 
+- Fintech & high-scale infrastructure
+- Speaker at GopherCon 2024
+- Open source contributor
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=daveoval&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+<table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6" width="48" height="48" alt="TypeScript" referrerpolicy="no-referrer" /><br>
+        <sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23F7DF1E" width="48" height="48" alt="JavaScript" referrerpolicy="no-referrer" /><br>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB" width="48" height="48" alt="Python" referrerpolicy="no-referrer" /><br>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/swift.svg?color=%23F05138" width="48" height="48" alt="Swift" referrerpolicy="no-referrer" /><br>
+        <sub><b>Swift</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB" width="48" height="48" alt="React" referrerpolicy="no-referrer" /><br>
+        <sub><b>React</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23000000" width="48" height="48" alt="Next.js" referrerpolicy="no-referrer" /><br>
+        <sub><b>Next.js</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2306B6D4" width="48" height="48" alt="Tailwind CSS" referrerpolicy="no-referrer" /><br>
+        <sub><b>Tailwind CSS</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/redux.svg?color=%23764ABC" width="48" height="48" alt="Redux" referrerpolicy="no-referrer" /><br>
+        <sub><b>Redux</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/zustand.svg?color=%23433E38" width="48" height="48" alt="Zustand" referrerpolicy="no-referrer" /><br>
+        <sub><b>Zustand</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/reactquery.svg?color=%23FF4154" width="48" height="48" alt="React Query" referrerpolicy="no-referrer" /><br>
+        <sub><b>React Query</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/framer.svg?color=%230055FF" width="48" height="48" alt="Framer Motion" referrerpolicy="no-referrer" /><br>
+        <sub><b>Framer Motion</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/reactquery.svg?color=%23FF4154" width="48" height="48" alt="TanStack Query" referrerpolicy="no-referrer" /><br>
+        <sub><b>TanStack Query</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E" width="48" height="48" alt="Node.js" referrerpolicy="no-referrer" /><br>
+        <sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/express.svg?color=%23000000" width="48" height="48" alt="Express.js" referrerpolicy="no-referrer" /><br>
+        <sub><b>Express.js</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/nestjs.svg?color=%23E0234E" width="48" height="48" alt="NestJS" referrerpolicy="no-referrer" /><br>
+        <sub><b>NestJS</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009688" width="48" height="48" alt="FastAPI" referrerpolicy="no-referrer" /><br>
+        <sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/graphql.svg?color=%23E10098" width="48" height="48" alt="GraphQL" referrerpolicy="no-referrer" /><br>
+        <sub><b>GraphQL</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/prisma.svg?color=%232D3748" width="48" height="48" alt="Prisma" referrerpolicy="no-referrer" /><br>
+        <sub><b>Prisma</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/flutter.svg?color=%2302569B" width="48" height="48" alt="Flutter" referrerpolicy="no-referrer" /><br>
+        <sub><b>Flutter</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB" width="48" height="48" alt="React Native" referrerpolicy="no-referrer" /><br>
+        <sub><b>React Native</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1" width="48" height="48" alt="PostgreSQL" referrerpolicy="no-referrer" /><br>
+        <sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/redis.svg?color=%23FF4438" width="48" height="48" alt="Redis" referrerpolicy="no-referrer" /><br>
+        <sub><b>Redis</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" width="48" height="48" alt="AWS" referrerpolicy="no-referrer" /><br>
+        <sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4" width="48" height="48" alt="Google Cloud" referrerpolicy="no-referrer" /><br>
+        <sub><b>Google Cloud</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/microsoftazure.svg?color=%230078D4" width="48" height="48" alt="Azure" referrerpolicy="no-referrer" /><br>
+        <sub><b>Azure</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23000000" width="48" height="48" alt="Vercel" referrerpolicy="no-referrer" /><br>
+        <sub><b>Vercel</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/amazons3.svg?color=%23569A31" width="48" height="48" alt="AWS S3" referrerpolicy="no-referrer" /><br>
+        <sub><b>AWS S3</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" width="48" height="48" alt="Docker" referrerpolicy="no-referrer" /><br>
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/kubernetes.svg?color=%23326CE5" width="48" height="48" alt="Kubernetes" referrerpolicy="no-referrer" /><br>
+        <sub><b>Kubernetes</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/terraform.svg?color=%23844FBA" width="48" height="48" alt="Terraform" referrerpolicy="no-referrer" /><br>
+        <sub><b>Terraform</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/github.svg?color=%23181717" width="48" height="48" alt="GitHub" referrerpolicy="no-referrer" /><br>
+        <sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/gitlab.svg?color=%23FC6D26" width="48" height="48" alt="GitLab" referrerpolicy="no-referrer" /><br>
+        <sub><b>GitLab</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/huggingface.svg?color=%23FFD21E" width="48" height="48" alt="Hugging Face" referrerpolicy="no-referrer" /><br>
+        <sub><b>Hugging Face</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/langchain.svg?color=%231C3C3C" width="48" height="48" alt="LangChain" referrerpolicy="no-referrer" /><br>
+        <sub><b>LangChain</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23412991" width="48" height="48" alt="OpenAI" referrerpolicy="no-referrer" /><br>
+        <sub><b>OpenAI</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/ollama.svg?color=%23000000" width="48" height="48" alt="Ollama" referrerpolicy="no-referrer" /><br>
+        <sub><b>Ollama</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23191919" width="48" height="48" alt="Anthropic" referrerpolicy="no-referrer" /><br>
+        <sub><b>Anthropic</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/notion.svg?color=%23000000" width="48" height="48" alt="Notion" referrerpolicy="no-referrer" /><br>
+        <sub><b>Notion</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" width="48" height="48" alt="Docker Desktop" referrerpolicy="no-referrer" /><br>
+        <sub><b>Docker Desktop</b></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://api.iconify.design/simple-icons/warp.svg?color=%2301A4FF" width="48" height="48" alt="Warp" referrerpolicy="no-referrer" /><br>
+        <sub><b>Warp</b></sub>
+      </td>
+    </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=daveoval&icon=5&color=1)](https://visitcount.itsvg.in)
+## Certifications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left" class="cert-badges-row">
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="100" alt="Azure Fundamentals (AZ-900)" referrerpolicy="no-referrer" />
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="100" alt="Azure AI Fundamentals (AI-900)" referrerpolicy="no-referrer" />
+</div>
+
+## Featured Projects
+
+- [**README Tailor**](https://readme-tailor.daveoval.com/) — Free GitHub README builder for profile pages and project repos. Drag-and-drop blocks, live preview, 5 style presets and README score. Create a professional README.md in minutes — no account required. · `React` · `Vercel`
+- [**gpu local lab**](https://gpu-local-lab.daveoval.com/) — GPU Local Lab uses WebGPU to run AI inference, semantic search, and GPU benchmarks locally. Your files and text stay on your device. · `React` · `Astro`
+- **AI readiness audit** — Paste any URL and get an instant audit of how search engines and AI systems see your content. 30+ checks across 6 categories. · `React` · `Astro`
+
+## Contact
+
+[📧 Email](mailto:dave_u@outlook.com) · [🌐 Website](daveoval.com) · [GitHub](https://github.com/daveoval) · [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/david-vazquez-developer/?locale=en)
