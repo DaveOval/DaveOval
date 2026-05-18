@@ -204,4 +204,4 @@ I’m a Senior Fullstack Engineer focused on building scalable, production-ready
 
 ## Contact
 
-[📧 Email](mailto:dave_u@outlook.com) · [🌐 Website](daveoval.com) · [GitHub](https://github.com/daveoval) · [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/david-vazquez-developer/?locale=en)
+[📧 Email](mailto:dave_u@outlook.com) · [🌐 Website](daveoval.com) · [GitHub](https://github.com/daveoval) · [LinkedIn](https://www.linkedin.com/in/david-vazquez-developer/?locale=en)
