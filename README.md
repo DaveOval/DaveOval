@@ -8,8 +8,7 @@ I’m a Senior Fullstack Engineer focused on building scalable, production-ready
 
 - Toka 
 - Fintech & high-scale infrastructure
-- Speaker at GopherCon 2024
-- Open source contributor
+- SDD
 
 ## Tech Stack
 
